@@ -1,0 +1,11 @@
+iventairestaffmessage: "§f[§l§4Staff§r§f]: L'inventaire du joueur §l§4{player} §r§fvient d'être clear."
+
+inventairejoueurmessage: "§f[§l§4Staff§r§f]: Votre inventaire vient d'être clear par §l§4{staff} §r§f."
+
+endercheststaffmessage: "§f[§l§4Staff§r§f]: L'EnderChest du joueur §l§4{player} §r§fvient d'être clear."
+
+enderchestjoueurmessage: "§f[§l§4Staff§r§f]: Votre EnderChest vient d'être clear par §l§4{staff} §r§f."
+
+armorstaffmessage: "§f[§l§4Staff§r§f]: L'armures du joueur §l§4{player} §r§fvient d'être clear."
+
+armorjoueurmessage: "§f[§l§4Staff§r§f]: Votre armures vient d'être clear par §l§4{staff} §r§f."
